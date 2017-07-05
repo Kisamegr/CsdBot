@@ -62,6 +62,8 @@ Temporary Items
 # Windows image file caches
 Thumbs.db
 ehthumbs.db
+CsdBot/obj/*
+CsdBot/bin/*
 
 # Folder config file
 Desktop.ini
